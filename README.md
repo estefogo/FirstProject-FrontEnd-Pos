@@ -3,4 +3,6 @@
 <h3>🗓️ Date: 09/05/2024</h3>
 <hr>
 <p>First Front End project in the post graduation of Software Engineering at UspEsalq.</p>
+<br>
+<p>The project is based in one project provided by the teacher, as a starting point for studies.</p>
 <h4>-> Applies JavaScript, Html e Css.</h4>
