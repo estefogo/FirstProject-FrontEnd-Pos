@@ -4,5 +4,5 @@
 <h4>✏️ Applies JavaScript, Html e Css.</h4>
 <hr>
 <h4>Description:</h4>
-<p>This is my first Front End project made in the post graduation of Software Engineering at UspEsalq. The project is based in one project provided by the teacher, as a starting point for studies.</p>
+<p>This is my first Front End project made in the post graduation of Software Engineering at UspEsalq. The project is based in another one, provided by the teacher, as a starting point for studies.</p>
 
