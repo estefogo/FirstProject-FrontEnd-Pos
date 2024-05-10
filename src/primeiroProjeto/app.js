@@ -16,7 +16,4 @@ function somaUm() {
 
     console.log(r, g, b)
 
-    if(newValue > value) {
-        h2Element.style.color = `rgb(${r}, ${g}, ${b})`
-    }
-} 
+    h2Element.style.color = `rgb(${r}, ${g}, ${b})`
